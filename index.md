@@ -16,11 +16,11 @@ Consultante Data & Digital
 `Depuis 2015`
 __FABDEV - Consultante Data & Digital__
 - Experte Projets Digitaux chez Fabdev.
-- Organisation de la réflexion stratégique pour la création de plateformes et outils métiers & data pour des clients Grands Comptes 
-- Digitalisation, automatisation, simplification et optimisation de process métier.
-- Rédaction du cahiers des charges des plateformes web et outils métier à mettre en place, benchmarks de solutions à utiliser   le cas échéant.
+- Organisation de la réflexion stratégique pour la création de plateformes, outils métiers & data pour des Grands Comptes 
+- Digitalisation, automatisation, simplification et optimisation de process métier
+- Rédaction du cahiers des charges des outils à mettre en place, benchmarks de solutions à utiliser le cas échéant
 - Recensement des projets applicatifs en cours de développement dans les organisations et challenge de leur pertinence
-- Accompagnement et gestion de projet lors des développements et de l'implémentation
+- Accompagnement et gestion de projet lors des développements et de l'implémentation des outils et solutions
 - Mise en ligne, tests, stratégie et opération de communication (interne/externe) des plateformes et outils développés
 - Business development et gestion de l'entreprise
 - Clients : RTE, ENGIE, VALEO, RENAULT, CCI (appel d'offre public remporté), EQIOM, Air France...
@@ -38,7 +38,8 @@ __CAPGEMINI – Consultante junior (client : LAFARGE) – Mumbaï & Singapour__
 
 `Side project`
 __The City Clock - Horloge binaire en forme d'immeuble Hausmannien__
-- Création et développement de la City Clock : développement du produit, organisation du Kickstarter (+50 000€ récoltés,         campagne réussie à 400%), mise en place de la production et de la logistique (8 fournisseurs)
+- Création et développement du produit, mise en place de la production et de la logistique (8 fournisseurs)
+- Organisation du Kickstarter : +50 000€ récoltés, campagne réussie à 400%
 - Vendue partout dans le monde dont au MoMa Design Store à NY et Tokyo : http://www.the-city-clock.com/map
 
 ## Education

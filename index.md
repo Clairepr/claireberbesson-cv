@@ -13,7 +13,7 @@ Consultante en Stratégie, Data & Digital
 ## Expériences professionnelles
 
 `2015 - `
-__FABDEV - Consultante Data & Digital__
+__[FABDEV](https://fabdev.fr) - Consultante Data & Digital__
 - Experte Projets Digitaux chez Fabdev
 - Organisation de la réflexion stratégique pour la création de plateformes, outils métiers & data pour des Grands Comptes
 - Digitalisation, automatisation, simplification et optimisation de process métier
@@ -36,7 +36,7 @@ __CAPGEMINI – Consultante junior (client : LAFARGE) – Mumbaï & Singapour__
 - Team Leader (5 consultants junior)
 
 `Project`
-__The City Clock - Horloge binaire en forme d'immeuble Hausmannien__
+__[The City Clock](https://www.kickstarter.com/projects/1050329560/the-city-clock-paris-design?lang=fr) - Horloge binaire en forme d'immeuble Hausmannien__
 - Création et développement du produit, mise en place de la production et de la logistique (8 fournisseurs)
 - Organisation d'un Kickstarter : +50 000€ récoltés, campagne réussie à 400%
 - Vendue partout dans le monde dont au MoMa Design Store à NY et Tokyo : http://www.the-city-clock.com/map

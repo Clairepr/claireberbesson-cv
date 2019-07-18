@@ -4,6 +4,7 @@ title: CV Claire Berbesson
 ---
 # Claire Berbesson
 
+
 - Consultante Data & Digital
 
 <div id="webaddress">

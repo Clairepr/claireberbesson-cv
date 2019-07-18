@@ -10,12 +10,11 @@ Consultante en Stratégie, Data & Digital
 <a href="claire.berbesson@fabdev.fr">claire.berbesson@fabdev.fr</a>
 | <a href="https://www.linkedin.com/in/claire-berbesson-86ba1339/">Mon profil Linkedin</a> | +33 6 31 40 86 21 | 56 rue Cambronne, 75015 Paris
 </div>
-
 ## Expériences professionnelles
 
 `Depuis 2015`
 __FABDEV - Consultante Data & Digital__
-- Experte Projets Digitaux chez Fabdev.
+- Experte Projets Digitaux chez Fabdev
 - Organisation de la réflexion stratégique pour la création de plateformes, outils métiers & data pour des Grands Comptes 
 - Digitalisation, automatisation, simplification et optimisation de process métier
 - Rédaction des cahiers des charges des outils à mettre en place, benchmarks de solutions à utiliser le cas échéant
@@ -39,7 +38,7 @@ __CAPGEMINI – Consultante junior (client : LAFARGE) – Mumbaï & Singapour__
 `Side project`
 __The City Clock - Horloge binaire en forme d'immeuble Hausmannien__
 - Création et développement du produit, mise en place de la production et de la logistique (8 fournisseurs)
-- Organisation du Kickstarter : +50 000€ récoltés, campagne réussie à 400%
+- Organisation d'un Kickstarter : +50 000€ récoltés, campagne réussie à 400%
 - Vendue partout dans le monde dont au MoMa Design Store à NY et Tokyo : http://www.the-city-clock.com/map
 
 ## Education
@@ -58,28 +57,23 @@ __Baccalauréat économique et social Mention Très bien - Pensionnat du Sacré 
 
 __Informatique__
 - Vision 360° du digital : création/mise en place d'une plateforme ou d'un outil, manipulation API, analyse de données, UX/UI
-- Développement en méthodologie Agile, Digital Marketing, Growth Hacking
+- Développement en méthodologie Agile
 - Mise en place d'une plateforme e-commerce
-- Maîtrise du système de Newsletter (Mailjet, Mailchimp)
 - Notions Python, Django, HTML/CSS, Markdown, Git, Wordpress
 
 __Gestion de projet__
-- Fortes compétences : organisation, activation des forces, respect des deadlines, rigueur, capacité d'analyse et de synthèse
+- *Fortes compétences* : organisation, activation des forces, respect des deadlines, rigueur, capacité d'analyse et de synthèse
 
 __Langues__
-- Français : langue maternelle
-- Anglais : professionnel
-- Espagnol : professionnel
+- *Français* : langue maternelle *Anglais* : professionnel *Espagnol* : professionnel
 
 __Engagement__
 - Elue au Conseil d'Administration d'ESSEC Alumni (+50 000 membres) : rééelue pour un 2ème mandat de 3 ans
-- En charge de la relance du Club Entrepreneurs et des projets numériques pour l'animation du réseau
 - Elue au Conseil National de la Jeunesse (2005-2008)
 
 __Sport & Passions__
-- Peinture : 12 ans (aquarelle, huile)
+- *Peinture* : 12 ans (aquarelle, huile) *Piano* : 10 ans
 - Sport : Natation (10 ans), Escrime (3ème par équipe aux Championnats de France), ESSEC Rugby Team
-- Piano : 10 ans
 - Voyages : Europe, Asie (+10 pays dont Birmanie, Chine, Inde), Australie, USA (+ 7 états)
 
 <!-- ### Footer

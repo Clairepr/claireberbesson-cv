@@ -57,24 +57,23 @@ __Baccalauréat économique et social Mention Très bien - Pensionnat du Sacré 
 
 __Informatique__
 - Vision 360° du digital : création/mise en place d'une plateforme ou d'un outil, manipulation API, analyse de données, UX/UI
-- Développement en méthodologie Agile
-- Mise en place d'une plateforme e-commerce
+- Développement en méthodologie Agile. Mise en place d'une plateforme e-commerce
 - Notions Python, Django, HTML/CSS, Markdown, Git, Wordpress
 
 __Gestion de projet__
-- *Fortes compétences* : organisation, activation des forces, respect des deadlines, rigueur, capacité d'analyse et de synthèse
+- Fortes compétences : organisation, activation des forces, respect des deadlines, rigueur, capacité d'analyse et de synthèse
 
 __Langues__
-- *Français* : langue maternelle *Anglais* : professionnel *Espagnol* : professionnel
+- Français : langue maternelle Anglais : professionnel Espagnol : professionnel
 
 __Engagement__
 - Elue au Conseil d'Administration d'ESSEC Alumni (+50 000 membres) : rééelue pour un 2ème mandat de 3 ans
 - Elue au Conseil National de la Jeunesse (2005-2008)
 
 __Sport & Passions__
-- *Peinture* : 12 ans (aquarelle, huile) *Piano* : 10 ans
+- Peinture : 12 ans (aquarelle, huile) Piano : 10 ans
 - Sport : Natation (10 ans), Escrime (3ème par équipe aux Championnats de France), ESSEC Rugby Team
-- Voyages : Europe, Asie (+10 pays dont Birmanie, Chine, Inde), Australie, USA (+ 7 états)
+- Expatriation 1,5 ans : Londres, Asie, Etats-Unis
 
 <!-- ### Footer
 

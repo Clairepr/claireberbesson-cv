@@ -4,7 +4,7 @@ title: CV Claire Berbesson
 ---
 # Claire Berbesson
 
-Consultante Data & Digital
+Consultante en Stratégie, Data & Digital
 
 <div id="webaddress">
 <a href="claire.berbesson@fabdev.fr">claire.berbesson@fabdev.fr</a>
@@ -27,14 +27,14 @@ __FABDEV - Consultante Data & Digital__
 
 `2014`
 __DHL - Project Manager - Direction générale Americas, Miami__
-- Création et mise en place de la nouvelle stratégie d'une offre de service logistique à forte valeur ajoutée.
-- Mise en place de KPI sur 15 pays. Management de 15 chefs de projets.
+- Création et mise en place de la nouvelle stratégie d'une offre de service logistique à forte valeur ajoutée
+- Mise en place de KPI sur 15 pays, management de 15 chefs de projets
 
 `2013`
 __CAPGEMINI – Consultante junior (client : LAFARGE) – Mumbaï & Singapour__
-- Etude de marché des routes et infrastructures à Mumbaï.
-- Réalisation de 20 entretiens auprès de constructeurs et du gouvernement à Mumbaï.
-- Team Leader (5 consultants junior).
+- Etude de marché des routes et infrastructures à Mumbaï
+- Réalisation de 20 entretiens auprès de constructeurs et du gouvernement à Mumbaï
+- Team Leader (5 consultants junior)
 
 `Side project`
 __The City Clock - Horloge binaire en forme d'immeuble Hausmannien__
@@ -57,11 +57,11 @@ __Baccalauréat économique et social Mention Très bien - Pensionnat du Sacré 
 ## Autres compétences
 
 __Informatique__
-- Vision 360° du digital : de la création ou mise en place d'une plateforme à sa diffusion en passant par la récolte et         l'analyse de données (API, DataScience, Machine Learning)
+- Vision 360° du digital : création/mise en place d'une plateforme ou d'un outil, manipulation API, analyse de données, UX/UI
 - Développement en méthodologie Agile, Digital Marketing, Growth Hacking
-- Mise en place d'une plateforme e-commerce.
-- Maîtrise du système de Newsletter (Mailjet, Mailchimp).
-- Notions Python, Django, HTML/CSS, Markdown, Git, Wordpress.
+- Mise en place d'une plateforme e-commerce
+- Maîtrise du système de Newsletter (Mailjet, Mailchimp)
+- Notions Python, Django, HTML/CSS, Markdown, Git, Wordpress
 
 __Gestion de projet__
 - Fortes compétences : organisation, activation des forces, respect des deadlines, rigueur, capacité d'analyse et de synthèse

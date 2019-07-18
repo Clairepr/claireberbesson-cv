@@ -12,10 +12,10 @@ Consultante en Stratégie, Data & Digital
 </div>
 ## Expériences professionnelles
 
-`Depuis 2015`
+`2015 - `
 __FABDEV - Consultante Data & Digital__
 - Experte Projets Digitaux chez Fabdev
-- Organisation de la réflexion stratégique pour la création de plateformes, outils métiers & data pour des Grands Comptes 
+- Organisation de la réflexion stratégique pour la création de plateformes, outils métiers & data pour des Grands Comptes
 - Digitalisation, automatisation, simplification et optimisation de process métier
 - Rédaction des cahiers des charges des outils à mettre en place, benchmarks de solutions à utiliser le cas échéant
 - Recensement des projets applicatifs en cours de développement dans les organisations et challenge de leur pertinence
@@ -35,7 +35,7 @@ __CAPGEMINI – Consultante junior (client : LAFARGE) – Mumbaï & Singapour__
 - Réalisation de 20 entretiens auprès de constructeurs et du gouvernement à Mumbaï
 - Team Leader (5 consultants junior)
 
-`Side project`
+`Project`
 __The City Clock - Horloge binaire en forme d'immeuble Hausmannien__
 - Création et développement du produit, mise en place de la production et de la logistique (8 fournisseurs)
 - Organisation d'un Kickstarter : +50 000€ récoltés, campagne réussie à 400%
@@ -60,9 +60,6 @@ __Informatique__
 - Développement en méthodologie Agile. Mise en place d'une plateforme e-commerce
 - Notions Python, Django, HTML/CSS, Markdown, Git, Wordpress
 
-__Gestion de projet__
-- Fortes compétences : organisation, activation des forces, respect des deadlines, rigueur, capacité d'analyse et de synthèse
-
 __Langues__
 - Français : langue maternelle Anglais : professionnel Espagnol : professionnel
 
@@ -78,5 +75,3 @@ __Sport & Passions__
 <!-- ### Footer
 
 Last updated: July 2019 -->
-
-

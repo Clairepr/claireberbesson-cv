@@ -16,7 +16,8 @@ Consultante Data & Digital
 `Depuis 2015`
 __FABDEV - Consultante Data & Digital__
 - Experte Projets Digitaux chez Fabdev.
-- Organisation de la réflexion stratégique pour la création de plateformes et outils métiers & data pour des clients Grands Comptes : digitalisation, automatisation, simplification et optimisation de process métier.
+- Organisation de la réflexion stratégique pour la création de plateformes et outils métiers & data pour des clients Grands Comptes 
+- Digitalisation, automatisation, simplification et optimisation de process métier.
 - Rédaction du cahiers des charges des plateformes web et outils métier à mettre en place, benchmarks de solutions à utiliser   le cas échéant.
 - Recensement des projets applicatifs en cours de développement dans les organisations et challenge de leur pertinence
 - Accompagnement et gestion de projet lors des développements et de l'implémentation

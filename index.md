@@ -4,7 +4,7 @@ title: CV Claire Berbesson
 ---
 # Claire Berbesson
 
-Consultante Data & Digital .
+Consultante Data & Digital test
 
 <div id="webaddress">
 <a href="claire.berbesson@fabdev.fr">claire.berbesson@fabdev.fr</a>
